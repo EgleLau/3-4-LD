@@ -1,0 +1,7 @@
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\bin\Debug\LD.exe.config
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\bin\Debug\LD.exe
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\bin\Debug\LD.pdb
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\obj\Debug\LD.csprojAssemblyReference.cache
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\obj\Debug\LD.csproj.CoreCompileInputs.cache
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\obj\Debug\LD.exe
+C:\Users\Pirmas\Desktop\IPA2\LAB3-4\LD\LD\obj\Debug\LD.pdb
